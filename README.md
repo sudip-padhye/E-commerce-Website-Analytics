@@ -93,3 +93,9 @@ Each rate is calculated as below:
 - Add to Cart Rate = Add to Cart / Visits
 
 All the above sheets form 3 different Dashboards. These 3 dashboards are added to form a story. From the above visualizations, we can summarize Visits, Bounces, and no. of platforms as significant features in increasing site’s gross sales. The underperforming sites can focus on increasing unique visits and new customers by attractive offers. Also, such sites must also diversify their business over various platforms to make it available to a large diaspora of customers.
+
+
+## Live Dashboard
+
+https://prod-useast-b.online.tableau.com/t/tableauprojectgallery/views/story/OnlineE-commerceSiteAnalysis?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link
+
